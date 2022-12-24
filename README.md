@@ -2,10 +2,12 @@
 <div id="header" align="center">
   <img src="https://img.freepik.com/free-vector/woman-using-laptop-with-binary-code_1308-115515.jpg?size=338&ext=jpg&ga=GA1.1.1166778162.1671907234&semt=ais" height="200 px>
 </div>
+<hr>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/messaging/thread/2-NWVlMzQxOWEtZDFiNi00ODg0LTkxODAtOGMzNWIzZTdmY2Y3XzAxMw==/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" aligh="bottom/>
-  </a>alig
+  </a>
+  ##About me
  
 
 <!--
