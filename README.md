@@ -5,9 +5,11 @@
 <hr>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/messaging/thread/2-NWVlMzQxOWEtZDFiNi00ODg0LTkxODAtOGMzNWIzZTdmY2Y3XzAxMw==/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" aligh="bottom/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  ##About me
+                                                                                                                               
+                                                                                                                               
+  <h1> <img src="https://cdn.xxl.thumbs.canstockphoto.com/about-me-picture_csp32110514.jpg " >About me<h1>
  
 
 <!--
